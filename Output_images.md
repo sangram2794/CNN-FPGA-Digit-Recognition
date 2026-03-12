@@ -2,3 +2,5 @@
 
 
 <img width="1088" height="938" alt="image" src="https://github.com/user-attachments/assets/739352f3-345f-4bd4-b603-2151aecd6391" />
+
+![digit3](https://github.com/user-attachments/assets/5de2755a-f9ac-478e-a6e7-436b505ce979)
