@@ -1,4 +1,4 @@
-# FPGA CNN Digit Recognition — DE2-115
+# FPGA CNN Digit Recognition DE2-115
 
 A hardware implementation of a Convolutional Neural Network (CNN) for handwritten digit recognition, built on the Intel DE2-115 FPGA board. The system takes a pre-processed MNIST image stored in memory and displays the predicted digit (0–9) on the 7-segment display.
 
